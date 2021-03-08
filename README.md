@@ -15,5 +15,5 @@ BG-4-2560x1440.png
 BG-5-2560x1600.png
 ![alt text](https://github.com/NuttareeB/MB-resources/blob/master/Background/BG-5-2560x1600.png?raw=true)
 
-BG-6-2388X1668- iPad version.png
-![alt text](https://github.com/NuttareeB/MB-resources/blob/master/Background/BG-6-2388X1668- iPad version.png?raw=true)
+BG-6-2388X1668-iPadVersion.png
+![alt text](https://github.com/NuttareeB/MB-resources/blob/master/Background/BG-6-2388X1668-iPadVersion.png?raw=true)
